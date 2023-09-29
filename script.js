@@ -98,6 +98,7 @@ if (index !== -1) {
 
  // Task 4:1
 
+/*
 class Flower {
   constructor(Type, Color, Amount, inStore) {
     this.Type = Type;
@@ -129,9 +130,9 @@ typeFlower.newColor("Yellow");
 typeFlower.newAmount(4);
 
 console.log("After change:", typeFlower);
+*/
 
-/*
-Alternativ to Task 4:1
+// Alternativ to Task 4:1
 
 class Flower {
   constructor(Type, Color, Amount, inStore) {
@@ -163,7 +164,6 @@ typeFlower.changeColor("Yellow");
 typeFlower.changeAmount(4);
 
 console.log("After change:", typeFlower);
-*/
 
 
 
